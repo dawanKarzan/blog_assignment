@@ -1,0 +1,68 @@
+Date : 2024-08-08 16:16:16
+Directory : c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1
+Total : 36 files,  1317 codes, 56 comments, 294 blanks, all 1667 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Python   |         36 |      1,317 |         56 |        294 |      1,667 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                    | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                       |         36 |      1,317 |         56 |        294 |      1,667 |
+| . (Files)                                                                               |          1 |         17 |          1 |          5 |         23 |
+| cpre                                                                                    |         14 |        206 |          3 |         30 |        239 |
+| cpre (Files)                                                                            |          4 |          6 |          2 |          8 |         16 |
+| cpre\migrations                                                                         |          2 |        104 |          1 |          8 |        113 |
+| cpre\models                                                                             |          8 |         96 |          0 |         14 |        110 |
+| oparation                                                                               |          8 |        426 |         15 |        107 |        548 |
+| p1                                                                                      |          5 |        168 |         16 |         64 |        248 |
+| users                                                                                   |          8 |        500 |         21 |         88 |        609 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\cpre\__init__.py                | Python   |          0 |          0 |          1 |          1 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\cpre\admin.py                   | Python   |          1 |          1 |          2 |          4 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\cpre\apps.py                    | Python   |          4 |          0 |          3 |          7 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\cpre\migrations\0001_initial.py | Python   |        104 |          1 |          7 |        112 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\cpre\migrations\__init__.py     | Python   |          0 |          0 |          1 |          1 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\cpre\models\__init__.py         | Python   |          8 |          0 |          1 |          9 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\cpre\models\comment.py          | Python   |          8 |          0 |          1 |          9 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\cpre\models\custom_user.py      | Python   |         38 |          0 |          4 |         42 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\cpre\models\favorite.py         | Python   |          8 |          0 |          2 |         10 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\cpre\models\like.py             | Python   |          8 |          0 |          2 |         10 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\cpre\models\post.py             | Python   |         10 |          0 |          1 |         11 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\cpre\models\role.py             | Python   |          8 |          0 |          1 |          9 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\cpre\models\tag.py              | Python   |          8 |          0 |          2 |         10 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\cpre\tests.py                   | Python   |          1 |          1 |          2 |          4 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\manage.py                       | Python   |         17 |          1 |          5 |         23 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\oparation\__init__.py           | Python   |          0 |          0 |          1 |          1 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\oparation\admin.py              | Python   |          1 |          1 |          2 |          4 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\oparation\apps.py               | Python   |          4 |          0 |          3 |          7 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\oparation\permissions.py        | Python   |          4 |          0 |          2 |          6 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\oparation\serializers.py        | Python   |         56 |          9 |         19 |         84 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\oparation\tests.py              | Python   |        268 |          2 |         59 |        329 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\oparation\urls.py               | Python   |         16 |          0 |          1 |         17 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\oparation\views.py              | Python   |         77 |          3 |         20 |        100 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\p1\__init__.py                  | Python   |          0 |          0 |          1 |          1 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\p1\asgi.py                      | Python   |         10 |          0 |          7 |         17 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\p1\settings.py                  | Python   |        125 |         16 |         46 |        187 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\p1\urls.py                      | Python   |         23 |          0 |          3 |         26 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\p1\wsgi.py                      | Python   |         10 |          0 |          7 |         17 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\users\__init__.py               | Python   |          0 |          0 |          1 |          1 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\users\admin.py                  | Python   |          1 |          1 |          2 |          4 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\users\apps.py                   | Python   |          4 |          0 |          3 |          7 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\users\permissions.py            | Python   |         19 |          2 |          7 |         28 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\users\serializers.py            | Python   |        153 |          1 |         23 |        177 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\users\tests.py                  | Python   |        249 |         12 |         39 |        300 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\users\urls.py                   | Python   |         22 |          0 |          1 |         23 |
+| c:\Users\LENOVO\Desktop\aassignmentt\post_side\myapp\p1\users\views.py                  | Python   |         52 |          5 |         12 |         69 |
+| Total                                                                                   |          |      1,317 |         56 |        294 |      1,667 |
++-----------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
