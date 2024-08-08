@@ -1,0 +1,8 @@
+sqlparse
+djangorestframework
+django
+Pillow
+mysqlclient
+psycopg
+psycopg2
+django-filter
